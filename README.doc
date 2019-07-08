@@ -1,11 +1,12 @@
 
 THREADS:
 
-These studies were created in base on the tutorial avaiable in:
+These studies were created in base on the tutorials avaiable in:
 	https://www.callicoder.com/java-multithreading-thread-and-runnable-tutorial/
 	https://www.callicoder.com/java-executor-service-and-thread-pool-tutorial/
 	http://www.java2s.com/Code/Java/Threads/CatalogThreads.htm
 	https://www.guru99.com/multithreading-java.html
+and with the book Operating System Concepts, Ninth Edition, by Avi Silberschatz, Peter Baer Galvin and Greg Gagne.
 
 Study 1: Creating Threads using the Thread class
 Study 2: Creating Threads using Runnable
