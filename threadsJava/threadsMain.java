@@ -124,6 +124,7 @@ public class threadsMain
 		System.out.println("Waiting for thread1 to finish");
 		try{
 			t1.join(); // withou the argument, it simply waits until t1 conclusion
+			// t1.join(500); //wait for 500 ms
 		}catch (InterruptedException e) {
             throw new IllegalStateException(e);
         }
